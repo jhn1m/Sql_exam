@@ -1,6 +1,8 @@
---ANIMAL_INS table is a table containing information about animals that have entered the animal shelter.
---ANIMAL_INS table structure is as follows, and ANIMAL_ID, ANIMAL_TYPE, DATETIME, INTAKE_CONDITION, NAME, SEX_UPON_INTAKE 
--- indicate the animal's ID, species, protection start date, protection start state, name, gender, and neutralization, respectively.
+/*
+ANIMAL_INS table is a table containing information about animals that have entered the animal shelter.
+ANIMAL_INS table structure is as follows, and ANIMAL_ID, ANIMAL_TYPE, DATETIME, INTAKE_CONDITION, NAME, SEX_UPON_INTAKE 
+indicate the animal's ID, species, protection start date, protection start state, name, gender, and neutralization, respectively.
+*/
 
 NAME	TYPE	        NULLABLE
 ANIMAL_ID	        VARCHAR(N)	FALSE
